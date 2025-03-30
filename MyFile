@@ -1,1 +1,7 @@
-This is a sample file 
+Git Blash Commands
+
+mkdir (Name) for create a folder in git blash in selected destination
+git clone (GITHUB LINK) for link the github file in git bash
+git pull to pull the folders and files
+git status to check the status 
+
